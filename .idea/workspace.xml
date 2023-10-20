@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf2c5e56-cd84-48b0-9925-532f0cbf5532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tander/JsonProcessorApp.java" afterDir="false" />
+    <list default="true" id="bf2c5e56-cd84-48b0-9925-532f0cbf5532" name="Changes" comment="Task six for junior">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tander/JsonProcessorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tander/JsonProcessorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tander/taskWorker/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tander/taskWorker/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tander/taskWorker/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tander/taskWorker/TaskTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +82,27 @@
       <option name="presentableId" value="Default" />
       <updated>1697723013538</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task six for junior">
+      <option name="closed" value="true" />
+      <created>1697796667519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697796667519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task six for junior">
+      <option name="closed" value="true" />
+      <created>1697796737321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697796737321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task six for junior" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task six for junior" />
   </component>
 </project>
