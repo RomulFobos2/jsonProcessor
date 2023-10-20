@@ -1,13 +1,10 @@
 package com.tander;
 
-import com.tander.models.InsuranceCompanies;
 import com.tander.taskWorker.TaskOne;
 import com.tander.taskWorker.TaskTwo;
-import com.tander.transformer.JsonToPOJO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Properties;

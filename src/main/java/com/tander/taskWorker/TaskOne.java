@@ -1,6 +1,5 @@
 package com.tander.taskWorker;
 
-import com.tander.JsonProcessorApp;
 import com.tander.models.InsuranceCompanies;
 import com.tander.transformer.JsonToPOJO;
 import lombok.AllArgsConstructor;
